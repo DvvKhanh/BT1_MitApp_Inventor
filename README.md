@@ -37,6 +37,7 @@
   + Chọn: Projects -> New Project
   + Đặt tên project: BTL_MOBILE -> Nhấn OK
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9d9a8965-2749-4cc6-8404-4fa6fd3e1d16" />
+
 - Lúc này sẽ xuất hiện màn hình Screen1 -> đây là màn hình đầu tiên của ứng dụng.
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2295691c-76a7-45cb-aeb6-084d69a1c280" />
 
