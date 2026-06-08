@@ -217,7 +217,27 @@
   + Khả năng mở rộng hạn chế.
   + Không mạnh bằng các công cụ lập trình chuyên nghiệp.
 
-# 9. Chạy thử ứng dụng
+# 9. Sử dụng Backpack
+## Backpack là công cụ hỗ trợ sao chép và tái sử dụng Block.
+## Cách thực hiện:
+- Bước 1: Chọn Block cần sao chép.
+<img width="1920" height="1200" alt="12" src="https://github.com/user-attachments/assets/873e6d0b-97d6-4983-9b79-d4b11cc14a4b" />
+
+- Bước 2: Kéo Block cần sao chép vào biểu tượng Backpack (Balo).
+<img width="1920" height="1200" alt="12" src="https://github.com/user-attachments/assets/a9789d62-47dd-43fe-b255-13480b61f511" />
+
+- Bước 3: Chuyển sang màn hình khác.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3f520fa9-4e1e-4783-9e31-c0df33ba3ca2" />
+
+- Bước 4: Mở Backpack.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c2a9498c-646c-43a5-b1c1-13a6ad404908" />
+
+- Bước 5: Kéo Block từ Backpack ra vị trí mong muốn.
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/afce37a5-ecd5-4563-92a9-8ba0491f6255" />
+
+## Backpack giúp tiết kiệm thời gian và tránh phải tạo lại các Block giống nhau.
+
+# 10. Chạy thử ứng dụng
 - Chọn: Connect -> AI Companion
 <img width="1920" height="1200" alt="12" src="https://github.com/user-attachments/assets/0bcbbfb0-5d9e-4f25-a9cf-dc745b0227af" />
 
@@ -228,23 +248,6 @@
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2786f609-ed24-4fed-b9aa-890a5be9750f" />
 
 - Lúc này ứng dụng sẽ chạy trên điện thoại.
-9. Sử dụng Backpack
-
-Backpack là công cụ hỗ trợ sao chép và tái sử dụng Block.
-
-Cách thực hiện:
-
-Bước 1: Chọn Block cần sao chép.
-
-Bước 2: Kéo Block xuống biểu tượng Backpack.
-
-Bước 3: Chuyển sang màn hình khác.
-
-Bước 4: Mở Backpack.
-
-Bước 5: Kéo Block từ Backpack ra vị trí mong muốn.
-
-Backpack giúp tiết kiệm thời gian và tránh phải tạo lại các Block giống nhau.
 
 10. Kết luận
 
