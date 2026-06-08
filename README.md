@@ -56,12 +56,14 @@
 
 ## Bước 4: Thêm thông tin cá nhân
 - Kéo thêm 4 Label gồm: Họ tên, MSSV, Ngành học, trường.
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c081b0c3-8533-439f-a592-e1ec2adbb33a" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/392a4c90-e1d7-4d59-bf80-6098502dacf9" />
+
 - 4 Label này có nhiệm vụ hiển thị thông tin giới thiệu của sinh viên.
 
 ## Bước 5: Tạo nút chuyển sang màn hình giải toán và website
 - Từ Palette chọn: User Interface -> Button -> Kéo vào giao diện.
 - Thiết lập:
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5fa73d71-42a8-47f9-8573-7f31e2bf4f92" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0deb1d67-0e4d-46c9-aed9-da1e8fc58616" />
+
 
 # 4. Thiết kế màn hình Screen 2 (Giải bài toán)
