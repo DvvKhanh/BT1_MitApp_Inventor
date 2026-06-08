@@ -17,14 +17,17 @@
 - Truy cập MIT App Inventor, mở trình duyệt: https://appinventor.mit.edu
 - Chọn: Create Apps!
 <img width="1920" height="1200" alt="11" src="https://github.com/user-attachments/assets/7bd957fe-9d51-4fd0-826e-9b3c26cec7cb" />
+
 - Đăng nhập bằng Gmail.
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/af6920cf-d8fd-4173-a05a-3ab50ee6b945" />
+
 - Tạo project:
   + Chọn: Projects -> New Project
   + Đặt tên project: BTL_MOBILE -> Nhấn OK
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9d9a8965-2749-4cc6-8404-4fa6fd3e1d16" />
-- Lúc này sẽ xuất hiện: Screen1 -> đây là màn hình đầu tiên của ứng dụng.
+- Lúc này sẽ xuất hiện màn hình Screen1 -> đây là màn hình đầu tiên của ứng dụng.
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2295691c-76a7-45cb-aeb6-084d69a1c280" />
+
 # 3. Thiết kế màn hình Screen 1 (About)
 ## Bước 1: Tạo bố cục giao diện
 - Từ Palette chọn: Layout -> Vertical Arrangement
