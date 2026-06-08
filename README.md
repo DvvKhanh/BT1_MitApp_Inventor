@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="12" src="https://github.com/user-attachments/assets/bd0e3cbb-9cc7-467f-8458-b96241725107" /># BÀI TẬP LỚN PHÁT TRIỂN ỨNG DỤNG TRÊN THIẾT BỊ DI ĐỘNG
+# BÀI TẬP LỚN PHÁT TRIỂN ỨNG DỤNG TRÊN THIẾT BỊ DI ĐỘNG
 # Sinh viên: Đậu Văn Khánh
 # MSSV: K225480106099
 # Lớp: K58KTP
