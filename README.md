@@ -78,7 +78,7 @@
 - Thành phần Image được sử dụng để hiển thị ảnh đại diện của sinh viên.
 
 ## Bước 4: Thêm thông tin cá nhân
-- Kéo thêm 4 Label gồm: Họ tên, MSSV, Ngành học, Trường.
+- Kéo thả 4 Label để hiển thị các thông tin cá nhân gồm họ tên, mã số sinh viên, ngành học và trường học. Đây là phần nội dung chính của màn hình giới thiệu bản thân.
 - Thuộc tính:
   + FontSize = 15
   + Width = Fill Parent
