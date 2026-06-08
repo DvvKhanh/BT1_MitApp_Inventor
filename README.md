@@ -71,7 +71,7 @@
 - Chọn Media bên phải màn hình -> Upload File để tải ảnh lên dự án.
 - Tiếp theo từ Palette chọn: User Interface -> Image -> Kéo vào dưới tiêu đề.
 - Thiết lập thuộc tính:
-  + Picture = avatar.jpg
+  + Picture = avatar.jpg (ảnh vừa upload lên)
   + Width = 200 Pixels
   + Height = 180 Pixels
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1db3427f-e56c-40ac-a17a-f62f5d553b61" />
