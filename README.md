@@ -13,15 +13,17 @@
 - MIT App Inventor là nền tảng phát triển ứng dụng Android trực tuyến do Viện Công nghệ Massachusetts (MIT) phát triển. Công cụ này cho phép người dùng tạo ứng dụng bằng phương pháp kéo thả các thành phần giao diện và lập trình trực quan bằng các khối lệnh (Blocks) mà không cần viết nhiều mã nguồn như các ngôn ngữ lập trình truyền thống.
 - Mục tiêu của đề tài là xây dựng một ứng dụng Android đơn giản gồm ba màn hình nhằm tìm hiểu quy trình thiết kế giao diện, xử lý sự kiện và phát triển ứng dụng trên nền tảng MIT App Inventor.
 - Ưu điểm:
-  + Miễn phí.
-  + Dễ học.
-  + Không cần cài đặt môi trường phức tạp.
-  + Phù hợp cho người mới học lập trình.
-  + Tạo ứng dụng nhanh chóng.
+  + Miễn phí và dễ sử dụng: MIT App Inventor là công cụ phát triển ứng dụng miễn phí, chỉ cần tài khoản Google và trình duyệt web là sử dụng được.
+  + Dễ học: Lập trình bằng các khối lệnh trực quan, không cần nhớ cú pháp.
+  + Phát triển ứng dụng nhanh: Kết hợp giữa kéo thả giao diện và lập trình bằng Blocks giúp rút ngắn thời gian xây dựng ứng dụng.
+  + Phù hợp với người mới học: Giao diện trực quan, dễ làm quen, phù hợp với học sinh, sinh viên và người mới bắt đầu lập trình.
+  + Dễ dàng kiểm thử: Có thể chạy và kiểm tra ứng dụng trực tiếp trên điện thoại thông qua MIT AI2 Companion.
 - Nhược điểm:
-  + Khó phát triển hệ thống lớn.
-  + Khả năng tùy biến hạn chế.
-  + Hiệu năng không cao bằng Android Studio.
+  + Khả năng mở rộng hạn chế: Khó phát triển các ứng dụng lớn và phức tạp.
+  + Hiệu năng chưa cao: Hoạt động kém tối ưu hơn so với Android Studio.
+  + Tính tùy biến thấp: Khó xây dựng các giao diện và chức năng chuyên sâu.
+  + Khó quản lý dự án lớn: Nhiều màn hình và Blocks dễ gây rối khi bảo trì.
+  + Hạn chế tính năng nâng cao: Một số chức năng cần sử dụng thêm Extension hỗ trợ.
 
 # 2. Tạo dự án mới
 - Truy cập MIT App Inventor, mở trình duyệt: https://appinventor.mit.edu
