@@ -180,8 +180,19 @@
 - Ghép các block lại để thực hiện phép cộng và hiển thị kết quả lên Label2.
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/472bbd4b-4862-472a-bacb-348b01a238a3" />
 
-## Block nút quay lại screen 1 của screen 3
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/167c133c-8a9b-46a5-912c-5ac4e8495903" />
+- Giải thích: Nhận dữ liệu từ hai TextBox, thực hiện phép cộng và hiển thị kết quả lên Label.
+## Block nút quay lại của screen 3
+- Chọn Button vừa tạo.
+- Kéo: when Button2.Click
+<img width="1920" height="1200" alt="12" src="https://github.com/user-attachments/assets/9b13426a-a28c-4b0b-aaab-f6a66bead5e8" />
+
+- Từ nhóm Control kéo: close screen
+<img width="1920" height="1200" alt="12" src="https://github.com/user-attachments/assets/3dfad7a3-4f64-46da-872d-eae80e61def2" />
+
+- Ghép lại:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7825371b-bdfe-4101-80c3-2db2593b2ab2" />
+
+- Giải thích: Block close screen được sử dụng để đóng màn hình hiện tại và quay trở lại màn hình trước đó. Khi người dùng nhấn nút "Quay lại", ứng dụng sẽ đóng ScreenMath và trở về Screen1.
 
 # 7. Bản chất của Blocks
 - Blocks là hình thức lập trình trực quan.
