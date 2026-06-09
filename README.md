@@ -247,18 +247,18 @@
 - Xuất hiện QR sau khi chọn AI Companion:
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2ea8a89b-a9eb-4079-b6b3-9141a4ccef45" />
 
-- Sau đó: Mở ứng dụng MIT AI2 Companion trên điện thoại và quét mã QR.
+- Sau đó tải ứng dụng và  mở ứng dụng MIT AI2 Companion trên điện thoại -> quét mã QR.
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2786f609-ed24-4fed-b9aa-890a5be9750f" />
 
 - Lúc này ứng dụng sẽ chạy trên điện thoại.
 - Giao diện Screen 1 (About):
-<img width="720" height="1471" alt="image" src="https://github.com/user-attachments/assets/065e795d-6def-466b-806d-36960786d4e5" />
+<img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/37d8e5ff-ec0f-448d-afaa-cb09c32b6598" />
 
 - Giao diện Screen 2 (Giải toán):
-<img width="720" height="1471" alt="image" src="https://github.com/user-attachments/assets/31374ad6-11dd-430d-b85f-e95e365d2733" />
+<img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/9bacb993-3d0e-4e3e-b100-7b7010938fec" />
 
 - Giao diện Screen 3 (ScreenWeb):
-<img width="720" height="1471" alt="image" src="https://github.com/user-attachments/assets/85bf9798-a827-4b7f-a54f-df34b5a10c22" />
+<img width="828" height="1792" alt="image" src="https://github.com/user-attachments/assets/178c281c-95b4-4fa8-98b0-dedaa87d4ad1" />
 
 # 11. Kết luận
 Ứng dụng đã được xây dựng thành công với ba màn hình gồm màn hình giới thiệu, màn hình giải bài toán và màn hình hiển thị website. Thông qua quá trình thực hiện, người học hiểu được quy trình phát triển ứng dụng trên MIT App Inventor, cách thiết kế giao diện bằng kéo thả, lập trình bằng Blocks và tái sử dụng mã lệnh bằng Backpack.
