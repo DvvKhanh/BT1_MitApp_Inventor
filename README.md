@@ -186,7 +186,7 @@
 - Giải thích: Nhận dữ liệu từ hai TextBox, thực hiện phép cộng và hiển thị kết quả lên Label.
 ## Block nút quay lại của screen 3
 - Chọn Button vừa tạo.
-- Kéo: when Button2.Click
+- Kéo: when Button1.Click
 <img width="1920" height="1200" alt="12" src="https://github.com/user-attachments/assets/9b13426a-a28c-4b0b-aaab-f6a66bead5e8" />
 
 - Từ nhóm Control kéo: close screen
