@@ -251,7 +251,14 @@
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2786f609-ed24-4fed-b9aa-890a5be9750f" />
 
 - Lúc này ứng dụng sẽ chạy trên điện thoại.
+- Giao diện Screen 1 (About):
+<img width="720" height="1471" alt="image" src="https://github.com/user-attachments/assets/065e795d-6def-466b-806d-36960786d4e5" />
 
-10. Kết luận
+- Giao diện Screen 2 (Giải toán):
+<img width="720" height="1471" alt="image" src="https://github.com/user-attachments/assets/31374ad6-11dd-430d-b85f-e95e365d2733" />
 
+- Giao diện Screen 3 (ScreenWeb):
+<img width="720" height="1471" alt="image" src="https://github.com/user-attachments/assets/6882f948-473f-4f6a-911f-c8ae65e54423" />
+
+# 11. Kết luận
 Ứng dụng đã được xây dựng thành công với ba màn hình gồm màn hình giới thiệu, màn hình giải bài toán và màn hình hiển thị website. Thông qua quá trình thực hiện, người học hiểu được quy trình phát triển ứng dụng trên MIT App Inventor, cách thiết kế giao diện bằng kéo thả, lập trình bằng Blocks và tái sử dụng mã lệnh bằng Backpack.
