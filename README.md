@@ -226,7 +226,7 @@
 - Bước 1: Chọn Block cần sao chép.
 <img width="1920" height="1200" alt="12" src="https://github.com/user-attachments/assets/873e6d0b-97d6-4983-9b79-d4b11cc14a4b" />
 
-- Bước 2: Kéo Block cần sao chép vào biểu tượng Backpack (Balo).
+- Bước 2: Kéo Block cần sao chép vào biểu tượng Backpack bên phải của Blocks Editor (Balo).
 <img width="1920" height="1200" alt="12" src="https://github.com/user-attachments/assets/a9789d62-47dd-43fe-b255-13480b61f511" />
 
 - Bước 3: Chuyển sang màn hình khác.
